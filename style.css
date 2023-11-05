@@ -1,0 +1,90 @@
+.nav-bar{
+    background-color: rgb(159, 128, 188);
+    height: 9vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.home-page{
+
+    font-size: 4vh;
+    font-weight:bolder;
+    margin-inline-end: 12px;
+    color: white;
+
+}
+
+.pragragh{
+    
+    font-size: 5vh;
+    color: rgb(135, 100, 168);
+    font-weight:bolder;
+}
+
+#input-link{
+size: 12vh;
+border: 1px rgb(183, 147, 218) solid;
+border-radius: 0.5vw;
+width: 37vw;
+height: 5vh;
+background-color: rgb(255, 255, 255);
+}
+.title-boxSearch{
+text-align: center;
+
+}
+
+
+.container-box{
+    background-color: rgb(159, 128, 188);
+
+    padding:2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 3rem;
+    font-size: 2vh;
+}
+
+.img1{
+    width: 30%;
+    height: 50%;
+
+}
+
+.box{
+    
+    border: 1px rgb(247, 244, 250) solid;
+    background-color: white;
+    border-radius: 3%;
+    text-align: center;
+    flex-grow: 0;
+    width: 20rem;
+    height: 15rem;
+
+
+}
+.but{
+    border: 1px solid rgb(176, 152, 199);
+    background-color:  rgb(205, 185, 224);
+    border-radius: 7%;
+    border: none;
+    width: 20%;
+    height: 15%;
+     
+}
+
+
+.footer{
+    background-color: rgb(159, 128, 188);
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight:bolder;
+    margin-top: 6.3rem;
+}
